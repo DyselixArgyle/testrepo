@@ -17,7 +17,7 @@
 
 LOCK TABLES `tbl_addressed_diagnostic` WRITE;
 /*!40000 ALTER TABLE `tbl_addressed_diagnostic` DISABLE KEYS */;
-INSERT INTO `tbl_addressed_diagnostic` VALUES (1,1),(2,2),(3,3),(4,4),(5,5),(6,6),(7,7),(9,8),(10,9);
+INSERT INTO `tbl_addressed_diagnostic` VALUES (1,1),(2,2),(3,3),(4,4),(5,5),(6,6),(7,7),(9,8),(10,9),(11,8),(12,9);
 /*!40000 ALTER TABLE `tbl_addressed_diagnostic` ENABLE KEYS */;
 UNLOCK TABLES;
 
